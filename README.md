@@ -26,14 +26,16 @@
 
 ## Öne Çıkan Projeler
 
-### Site Şablonu — işletmeler için web sitesi sistemi
+### [İşletme Site Şablonu](https://github.com/emircankaraman/isletme-site-sablonu) — işletmeler için web sitesi sistemi
+[![Demo](https://github.com/emircankaraman/isletme-site-sablonu/raw/main/ekran/usta-makas.jpg)](https://emircankaraman.github.io/isletme-site-sablonu/)
+
 Tek bir motor, sınırsız müşteri. Her işletmenin sitesi yalnızca bir ayar dosyası ve fotoğraflarla oluşturulur; kod hiç değişmez.
-- Farklı **düzenler** (klasik, vitrin) ve **temalar** ile her müşteriye özgün görünüm
+- 3 farklı **düzen** (klasik, vitrin, portfolyo) ve 8 **tema** ile her müşteriye özgün görünüm
 - Kaydırmaya bağlı animasyonlar, yumuşak kaydırma, paralaks ve sayaç efektleri
 - Canlı **"Şu an açık / kapalı"** çalışma saatleri, WhatsApp ve Instagram mesaj butonları, harita
 - Google için yapılandırılmış veri (Schema.org), tamamen statik ve hızlı çıktı
 
-`HTML` `CSS` `JavaScript` `Python` · *Kod özel depoda; canlı demo için iletişime geçebilirsiniz.*
+`HTML` `CSS` `JavaScript` `Python` · **[Canlı demolar →](https://emircankaraman.github.io/isletme-site-sablonu/)**
 
 ### [Kuzey Polimer](https://github.com/emircankaraman/Kuzey-polimer)
 Atık yönetimi ve geri dönüşüm alanında çalışan firmalar için çok sayfalı kurumsal web sitesi: hizmetler, ekipmanlar, hakkımızda ve iletişim sayfaları.
