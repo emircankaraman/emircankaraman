@@ -40,11 +40,6 @@ Atık yönetimi ve geri dönüşüm alanında çalışan firmalar için çok say
 
 `HTML` `CSS` `JavaScript`
 
-### [Calculator](https://github.com/emircankaraman/Calculator)
-HTML, CSS ve JavaScript ile geliştirilmiş hesap makinesi uygulaması.
-
-`HTML` `CSS` `JavaScript`
-
 ---
 
 <p align="center"><i>İletişim için <a href="mailto:emirrcankaraman@gmail.com">e-posta</a> veya <a href="https://www.linkedin.com/in/emircankaraman/">LinkedIn</a> üzerinden ulaşabilirsiniz.</i></p>
